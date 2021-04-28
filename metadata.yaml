@@ -1,0 +1,23 @@
+_repo: The-Way-of-Martha-and-the-Way-of-Mary_65157
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Graham, Stephen
+    birthdate: 1884
+    deathdate: 1975
+    gutenberg_agent_id: '4157'
+    url: http://www.gutenberg.org/2009/agents/4157
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_Graham_%28author%29
+description: ''
+gutenberg_issued: '2021-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65157'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Way of Martha and the Way of Mary
+url: http://www.gutenberg.org/ebooks/65157
